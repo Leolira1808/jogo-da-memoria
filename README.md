@@ -5,7 +5,7 @@
 
 ### Projeto 
 
-No desenvolvendo do Jogo da Memória foram utilizados: <img align="center" alt="css" height="30" width="40" 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> - <img align="center" alt="html5" height="30" width="40" 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -  <img align="center" alt="javaScript" height="30" width="40" 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+Jogo desenvolvido apartir do tutorial em video de Gustavo Silveira sendo utilizados: <img align="center" alt="css" height="30" width="40" 
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />(CSS) - <img align="center" alt="html5" height="30" width="40" 
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />(HTML5) -  <img align="center" alt="javaScript" height="30" width="40" 
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />(JavaScript)
