@@ -1,6 +1,6 @@
 # Jogo da Memória
 
-## Desenvolvido a partir do tutorial do instrutor Gustavo Silveira no  <a href="https://www.youtube.com/c/GustavoSilveiraGameDev/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+## Desenvolvido a partir do tutorial do instrutor Gustavo Silveira no  <a href="https://www.youtube.com/c/GustavoSilveiraGameDev/featured" target="_blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
 ### Projeto 
